@@ -1,4 +1,6 @@
-# ML Assignment 2 - Breast Cancer Classification
+# ML Assignment 2 - Yogesh T - 2026AJ05638 
+
+# Breast Cancer Classification
 
 ## a. Problem Statement
 This project trains five supervised machine learning classification models to predict whether a tumour is malignant or benign based on 30 numeric features computed from a digitised image of a fine needle aspirate (FNA) of a breast mass. The goal is to compare model performance across six standard evaluation metrics and deploy the models in an interactive web application using Streamlit.
@@ -21,7 +23,7 @@ Features are computed from a digitised image of a fine needle aspirate of a brea
 
 
 ## c. GitHub Repository Link
-
+> **[https://github.com/2026aj05638/MLASSIGNMENT2](https://github.com/2026aj05638/MLASSIGNMENT2)**
 
 Repository contents:
 ```
@@ -71,4 +73,4 @@ Train/test split: stratified, `random_state=42`.
 
 
 ## Live Streamlit App
-
+> **[https://mlassignment2-2026aj05638.streamlit.app/](https://mlassignment2-2026aj05638.streamlit.app/)**
